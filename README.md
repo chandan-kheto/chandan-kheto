@@ -1,25 +1,25 @@
 <h1 align="center">👋 Hi there, I'm Chandan Kheto</h1>
-<h3 align="center">🚀 A passionate *Full-Stack Developer* focused on building AI-powered web apps using modern JavaScript technologies.</h3>
+<h3 align="center">🚀 A passionate *AI/ML ENGINEER* focused on building Building Real-World  AI Applications using modern PYTHON technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandan-kheto&label=Profile%20views&color=0e75b6&style=flat" alt="chandan-kheto" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandan-kheto" alt="chandan-kheto" /></a> </p>
 
-- 🔭 I’m currently working on **React & Next.js with JavaScript**
+- 🔭 I’m currently working on **LLMs & NLP, Hugging Face, LangChain, OPenAI**
 
-- 🌱 I’m currently learning **React & Next.js with JavaScript & OpenAI API**
+- 🌱 I’m currently learning ** LLMs, NLP | Hugging Face, LangChain, OpenAI | Python, PyTorch, NumPy, Pandas, Scikit-Learn**
 
-- 👯 I’m looking to collaborate on **React & Next.js**
+- 👯 I’m looking to collaborate on **LLMs & NLP**
 
-- 🤝 I’m looking for help with **React & Next.js with Full Stack**
+- 🤝 I’m looking for help with **LLMs & NLP**
 
 - 👨‍💻 All of my projects are available at [Github Repo]
 
-- 💬 Ask me about **React & Next.js with JavaScript & OpenAI API**
+- 💬 Ask me about ** LLMs, NLP, Hugging Face, LangChain & OpenAI API, PyTorch, NumPy, Pandas, Scikit-Lear**
 
 - 📫 How to reach me **chandankheto2024@gmail.com**
 
-- ⚡ Fun fact **I love coding and full enjoy it.**
+- ⚡ Fun fact **I love Problem Solving and full enjoy it.**
 
 
 </p>
